@@ -38,7 +38,7 @@ Some of the scopes of JsonPowerDB are :-<br>
 As you can see the above image data has been successful added in the database.So the project is in complete state.
 
 <h3>Sources</h3>
-These are some of the sources which I refered :-
+These are some of the sources which I refered :-<br>
 https://youtu.be/tw8IT-tfBzQ<br>
 https://youtu.be/4ajZKD-Ko4Q<br>
 https://youtu.be/DvE1rA_XJ6o<br>
