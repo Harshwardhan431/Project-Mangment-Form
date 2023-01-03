@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this template
+-->
+<html>
+    <head>
+        <title>Project Form</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script
+        src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script
+        src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <script
+            src="https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js">
+        </script>
+        <script src="index.js">
+        </script>
+    </head>
+    <body>
+        <div class="container">
+            <h2>Project Form</h2>
+            <form id="projectForm" method="get">
+                <div class="form-group">
+                    <label for="projid">Project id:</label>
+                    <input type="text" class="form-control" onchange="getProj()" name="projId" id="projid"
+                           placeholder="Enter Project ID" required>
+                </div>
+                <div class="form-group">
+                    <label for="projName">Project Name:</label>
+                    <input type="text" class="form-control" id="projName"
+                           placeholder="Enter Project Name" name="projName">
+                </div>
+                <div class="form-group">
+                    <label for="projAssgTo">Assigned To:</label>
+                    <input type="text" class="form-control" id="projAssgTo"
+                           placeholder="Enter name" name="projAssTo">
+                </div>
+                <div class="form-group">
+                    <label for="projAssDate">Assigment Date:</label>
+                    <input type="text" class="form-control" id="projAssDate"
+                           placeholder="Enter Date" name="projAssDate">
+                </div>
+                <div class="form-group">
+                    <label for="projDeadline">Deadline:</label>
+                    <input type="text" class="form-control" id="projDeadline"
+                           placeholder="Enter Deadline:" name="projDeadline">
+                </div>
+               
+                
+                <input type="button" class="btn btn-primary" id="projSave" value="Save"
+                       onclick="saveProject(); " disabled>
+                <input type="button" class="btn btn-primary" id="projChange" value="Change"
+                       onclick="changeProject();" disabled>
+                <input type="button" class="btn btn-primary" id="projReset" value="Reset"
+                       onclick="resetProject();" disabled>
+            </form>
+        </div>
+    </body>
+</html>
