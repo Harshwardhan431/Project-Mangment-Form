@@ -20,6 +20,8 @@ Deadline: This field takes the deadline date of the project.<br>
 <h3>Table of contents</h3>
 <h3>Illustrations</h3>
 <img src="https://github.com/Harshwardhan431/Project-Mangment-Form/blob/master/Illustration.png" width=700 heigth=300>
+<br>
+<img src="https://github.com/Harshwardhan431/Project-Mangment-Form/blob/master/Database pic.png" width=700 heigth=300>
 
 <h3>Scope of functionalities</h3>
 Some of the scopes of JsonPowerDB are :-<br>
