@@ -20,12 +20,12 @@ Deadline: This field takes the deadline date of the project.<br>
 <h3>Table of contents</h3>
 <h3>Illustrations</h3>
 <img src="https://github.com/Harshwardhan431/Project-Mangment-Form/blob/master/Illustration.png" width=700 heigth=300>
-<br>
-<img src="https://github.com/Harshwardhan431/Project-Mangment-Form/blob/master/Database pic.png" width=700 heigth=300>
 
 <h3>Scope of functionalities</h3>
 Some of the scopes of JsonPowerDB are :-<br>
-
+1) It's Schema free.
+2) It has Serverless support.
+3) Supports Multi-Mode database. 
 
 <h3>Examples of use</h3>
 1)All RDBMS , Document-DB ,Key-Value pair can use this.<br>
@@ -33,6 +33,13 @@ Some of the scopes of JsonPowerDB are :-<br>
 3)Live working HTML templates can be easily implemented in JsonPowerDB. <br>
 
 <h3>Project status</h3>
+<img src="https://github.com/Harshwardhan431/Project-Mangment-Form/blob/master/Database pic.png" width=700 heigth=300>
+<br>
+As you can see the above image data has been successful added in the database.So the project is in complete state.
 
 <h3>Sources</h3>
-<h3>Other information</h3>
+These are some of the sources which I refered :-
+https://youtu.be/tw8IT-tfBzQ
+https://youtu.be/4ajZKD-Ko4Q
+https://youtu.be/DvE1rA_XJ6o
+
