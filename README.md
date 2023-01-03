@@ -9,9 +9,6 @@ Aim behind building this website is make a form which accepts and store all the 
 3) Minimize the complexity of interoperability of different applocation.<br>
 4) Maximum data processing performance.<br>
 
-<h3>Release History</h3>
-
-
 <h3>Table of contents</h3>
 Project-ID: This is a primary of the schema which uniquely identifies a record.<br>
 Project Name: This field takes the name of the project.<br>
