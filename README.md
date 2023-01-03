@@ -19,7 +19,7 @@ Deadline: This field takes the deadline date of the project.<br>
 <h3>Release History</h3>
 <h3>Table of contents</h3>
 <h3>Illustrations</h3>
-<img src="https://github.com/Harshwardhan431/Project-Mangment-Form/blob/master/Illustrations.png" width=300 heigth=150>
+<img src="https://github.com/Harshwardhan431/Project-Mangment-Form/blob/master/Illustration.png" width=700 heigth=300>
 <h3>Scope of functionalities</h3>
 <h3>Examples of use</h3>
 <h3>Project status</h3>
