@@ -20,8 +20,17 @@ Deadline: This field takes the deadline date of the project.<br>
 <h3>Table of contents</h3>
 <h3>Illustrations</h3>
 <img src="https://github.com/Harshwardhan431/Project-Mangment-Form/blob/master/Illustration.png" width=700 heigth=300>
+
 <h3>Scope of functionalities</h3>
+Some of the scopes of JsonPowerDB are :-<br>
+
+
 <h3>Examples of use</h3>
+1)All RDBMS , Document-DB ,Key-Value pair can use this.<br>
+2)Projects that need GeoSpecial / Time-series Analytics can use this project.<br>
+3)Live working HTML templates can be easily implemented in JsonPowerDB. <br>
+
 <h3>Project status</h3>
+
 <h3>Sources</h3>
 <h3>Other information</h3>
